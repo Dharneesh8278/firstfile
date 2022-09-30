@@ -1,0 +1,47 @@
+body{
+    width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
+/* #fadee
+
+{
+width: 250px;
+height: 250px;
+background-color: blue;
+transition: 5s linear;
+} */
+
+
+#slideup
+{
+max-height: 500px;
+max-width: 200px;
+background-color: blueviolet;
+color: aqua;
+transition: all 5s;
+border: 2px solid blue;
+overflow:hidden;
+
+
+}
+/* #slidedown
+{
+max-height: 0px;
+max-width: 0px;
+background-color: blueviolet;
+color: aqua;
+transition: all 5s;
+border: 0px;
+overflow:hidden;
+
+
+} */

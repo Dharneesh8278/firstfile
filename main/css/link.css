@@ -1,0 +1,33 @@
+*
+{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box
+
+
+}
+body
+{
+width: 100vw;
+height: 100vh;
+text-align: center;
+
+}
+.a1,.a4:visited
+{
+text-decoration: dotted;
+color: red;
+
+}
+.a1:hover
+{
+text-decoration: dashed;
+color: aqua;
+
+}
+.a4:active
+{
+text-decoration: wavy;
+color: brown;
+
+}

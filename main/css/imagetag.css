@@ -1,0 +1,13 @@
+body
+{
+    background-image: url(../media/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90vw;
+    height: 90vh;
+}
+
+p{
+    color: red;
+}
+

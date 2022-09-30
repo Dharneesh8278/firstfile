@@ -1,0 +1,27 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+}
+
+.image
+{
+    height: 700px;
+    background-image: url(../media/phant.jpg);
+    background-size: cover;
+    
+}
+.image2
+{
+background-color: rgba(0, 0, 0, 0.493);
+
+
+}
+.image3
+{
+
+background-color:  rgba(0, 0, 0, 0.493);
+
+
+}

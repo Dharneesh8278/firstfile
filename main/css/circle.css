@@ -1,0 +1,63 @@
+*
+{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+} body
+{
+height: 100vh;
+width: 100vw;
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+.circle
+{
+height: 100px;
+width: 100px;
+border: 5px solid black;
+display: flex;
+border-radius: 50%;
+justify-content: center;
+animation: ravy 2s linear infinite;
+gap: 200px;
+}
+
+.half
+{position: absolute;
+top: 20px;
+height: 90px;
+width: 20px;
+background-color: white;
+    }
+    @keyframes ravy 
+    {
+0%{
+transform: rotate(360deg);
+
+
+}
+
+
+
+    }
+    .zoom
+    {
+height: 100px;
+width: 100px;
+/* display: flex;
+justify-content:center; */
+background-color:palevioletred;
+border-radius: 50%;
+/* align-items:center ; */
+animation: vars 2s linear infinite;
+
+    }
+   */
+        
+    @keyframes vars
+     {
+        
+
+    }

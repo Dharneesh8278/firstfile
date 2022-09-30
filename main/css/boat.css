@@ -1,0 +1,77 @@
+*
+{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+} body
+{
+height: 100vh;
+width: 100vw;
+
+
+}
+.homepage
+{
+background-color: black;
+height: 12%;
+width: 100%;
+word-spacing: inherit;
+
+}
+.image1
+{
+height: 50px;
+width: 100px;
+float: left;
+padding-left: 2rem;
+
+}
+.redbox
+{
+height: 40px;
+width: 100%;
+background-color: red;
+color: white;
+text-align: center;
+justify-content: center;
+font: bold;
+padding-top:1.4%;
+}
+.shop
+{
+    background-color: black;
+    width: 100%;
+    height: 20px; ;
+color: white;
+
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 20px;
+word-spacing: 1rem;
+padding-left:2% ;
+}
+.slide
+{
+height: 100px;
+width: 100%;
+
+
+}
+
+.rig
+{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    float: right;
+    /* padding-right: 20%; */
+    position: absolute;
+    left: 80%;
+    top: 14%;
+    
+}

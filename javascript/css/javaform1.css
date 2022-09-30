@@ -1,0 +1,47 @@
+*
+{
+padding: 0;
+box-sizing: border-box;
+margin: 0;
+}
+
+
+#box
+{
+height: 650px;
+width: 400px;
+background-color: cadetblue;
+
+}
+body{
+
+display: flex;
+justify-content:center;
+align-items: center;
+}
+
+
+#red
+{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+background-color: aqua;
+color: chocolate;
+}
+#id11
+{
+    display:flex ;
+justify-content: center;
+align-items: center;
+
+}
+#id22
+{
+
+    display:flex ;
+justify-content: center;
+align-items: center;
+
+}

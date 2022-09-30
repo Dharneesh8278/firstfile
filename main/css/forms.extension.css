@@ -1,0 +1,19 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.document
+{
+border-bottom: 2px solid black;
+padding-left: 2rem;
+
+
+}
+body
+{
+padding-left: 2rem;
+
+
+
+}

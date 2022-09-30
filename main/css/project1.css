@@ -1,0 +1,182 @@
+*
+{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+body{
+width: 100vw;
+height: 100vh;
+}
+.parent{
+width: 100%;
+height: 200px;
+background-color: rgb(1, 1, 43);
+padding-top: 2rem;
+padding-left: 2rem;
+}
+.logo{
+    width: 25%;
+height: 80%;
+}
+
+.child
+{
+    width: 100%;
+    height: 400px;
+}
+.naz
+{
+    width: 100%;
+    height: 100%;
+}
+.child2
+{
+    background-color: rgb(1, 1, 43);
+height: 400px;
+width: 100%;
+position: relative;
+padding-top: 2rem;
+padding-left: 2rem;
+
+
+
+
+
+}
+.heading1
+{
+    color: rgb(0, 100, 0, 0.938);
+    font-size: 50px;
+
+
+
+}
+
+.heading2
+{
+    color: rgb(0, 100, 0, 0.938);
+}
+.para1
+{
+color: antiquewhite;
+width: 20%;
+
+}
+.assurance{
+    position: absolute;
+    top: 2%;
+    left: 70%;
+    width: 7cm;
+    height: 7cm;
+
+}
+.border
+{
+    color: antiquewhite;
+padding-top: 1%;
+border-bottom: 5px solid green;
+width: 220px;
+font-size: 30px;
+
+}
+.placement
+{
+    color: white;
+    padding-left:15px;
+    padding-top: 10px;
+}
+.span1
+{
+padding-left: 1%;
+}
+
+.span2
+{
+padding-left: 40%;
+}
+.csite
+{
+position: relative;
+
+
+
+}
+.site{
+background-color:seagreen;
+position: absolute;
+top: 110%;
+left: 86%;
+padding:0.5rem;
+
+
+
+}
+
+.page2
+{
+color: white;
+background-color: rgb(1, 1, 43);
+padding-left: 2rem;
+
+
+}
+.coding
+{
+color: seagreen;
+border-bottom: 3px solid seagreen;
+
+
+
+
+}
+.hiring
+{
+color: seagreen;
+padding-top: 60px;
+border-bottom: 3px solid seagreen;
+
+}
+.companylogo
+{
+height: 200px;
+width: 15%;
+padding-left: 2rem;
+padding-top: 4rem
+
+
+}
+.computerlogo
+{
+    width:70%;
+height:400px;
+padding-top: 2rem;
+padding-left: 0.5rem;
+
+}
+.page3
+{
+width: 100%;
+height: 1800px;
+background-color: rgb(1, 1, 43);
+
+}
+.abou
+{
+color:white;
+padding-top: 4rem;
+padding-left: 2rem;
+}
+.this
+{
+    color: seagreen;
+    border-bottom: 3px solid seagreen;
+}
+.teach
+{
+height:4000px;
+width: 200%;
+padding-left: 4rem;
+padding-top: 3rem;
+}

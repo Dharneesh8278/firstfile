@@ -1,0 +1,87 @@
+.back-img{
+    background-image: url(../media/mountains-190055__340.jpeg);
+    background-size: cover;
+    height: 100vh;
+    width: 90vw;
+}
+.logo-nav{
+    
+    margin-top: 2rem;
+}
+.top-left-logo img{
+    width: 100%;
+    
+}
+.nav-elements{
+    text-align: right;
+    font-size: 15px;
+}
+.nav-elements a{  
+    padding-left: 4rem;
+    text-decoration: none;
+    color: white;
+}
+.ss-header{
+    font-size: 3rem;
+    text-align: center;
+    color: orangered;
+    margin-top: 30rem;
+}
+.ss-paragraph{
+    font-size: 2rem;
+    text-align: center;
+    color: orangered;
+}
+.ss-header2{
+    font-size: 4rem;
+    text-align: center;
+}
+.ss-paragraph2{
+    text-align: center;
+    font-size: 2rem;
+
+}
+.row-info{
+    margin-top: 5rem;
+}
+.ss-paragraph3{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.border-project{
+    border-left:2px solid salmon;
+    border-bottom: 2px solid seagreen;
+    border-right: 2px solid blue; 
+    padding-top: 2rem;
+    position: relative;
+     
+}
+.border-project2{
+    border-left:2px solid salmon;
+    border-bottom: 2px solid seagreen;
+    border-right: 2px solid blue; 
+    padding-top: 2rem;
+    position: relative;
+}
+.border-project3{
+    border-left:2px solid salmon;
+    border-bottom: 2px solid seagreen;
+    border-right: 2px solid blue;
+    padding-top: 2rem;
+     position: relative;
+}
+
+.icon-movement{
+    position: absolute;
+    font-size: 80px;
+    top: -53px;
+    right: 106px;
+}
+.icon-movement1{
+    position: absolute;
+    font-size: 150px;
+    top: -77px;
+    left: -30px;
+
+}

@@ -1,0 +1,174 @@
+*
+{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+
+
+
+body{
+height: 100vh;
+width: 100vw;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(../skull.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.cube
+{
+
+width: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+/* position: center; */
+transform-style: preserve-3d;
+animation: ravy 15s infinite;
+transition: 2s;
+
+
+}
+
+.side
+{
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+position: absolute;
+/* border-radius: 25%; */
+display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    color: black;
+    flex-direction: column;
+    line-height: 2rem;
+
+}
+
+.top
+{
+
+    
+width: 250px;
+height: 250px;
+transform: translateZ(-250px);
+background-color: aqua;
+transform-origin: right;
+
+border:solid;
+border-image-slice: 1;
+border-width: 3px;
+border-image-source: linear-gradient left(60deg blue,violet);
+
+
+
+}
+.front
+{
+width: 250px;
+height: 250px;
+transform: rotateX(90deg);
+transform-origin:bottom;
+background-color:rgb(247, 53, 19);
+
+border:solid;
+border-image-slice: 1;
+border-width: 3px;
+border-image-source: linear-gradient left(60deg blue,violet);
+
+
+
+
+}
+.left
+{
+width: 250px;
+height: 250px;
+transform: rotateX(-90deg);
+transform-origin: top;
+background-color:rgb(12, 129, 231);
+
+border:solid;
+border-image-slice: 1;
+border-width: 3px;
+border-image-source: linear-gradient left(60deg blue,violet);
+}
+.right
+{
+width: 250px;
+height: 250px;
+transform-origin: left;
+background-color: teal;
+
+border:solid;
+border-image-slice: 1;
+border-width: 3px;
+border-image-source: linear-gradient left(60deg blue,violet);
+}
+.up
+{
+    width: 250px;
+    height: 250px;
+    transform-origin: right;
+background-color: yellowgreen;
+transform: rotateY(-90deg);
+
+border:solid;
+border-image-slice: 1;
+border-width: 3px;
+border-image-source: linear-gradient left(60deg blue,violet);
+}
+
+.down
+{
+    width: 250px;
+    height: 250px;
+    transform-origin: left;
+background-color: orange;
+transform: rotateY(90deg);
+
+border:solid;
+border-image: 1px solid   blue ,violet,yellowgreen;
+border-width: 3px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes ravy {
+    0%
+    {
+
+transform: rotateX(360eg) rotateY(50deg) rotateZ(-360deg);
+    }
+
+    10%
+{
+transform: rotateX(-360deg) rotateY(-5deg) rotateZ(360deg);
+
+
+}
+
+
+
+
+
+
+}

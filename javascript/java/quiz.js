@@ -1,0 +1,123 @@
+var a={
+allquestions:[
+{
+    question:"what is html?",
+    id:"id1",
+    answer:"hyper text markup language",
+    Options:["hyper text markup language","hype text markup language","hypo text markup language","hyper text makeup language"],
+
+},
+{
+question:"what is css",
+id:"id2",
+answer:"cascading style sheets",
+options:["cascading sauce sheets","cascading style sheets","cascading style shots","casatta style sheets"],
+
+},
+{
+question:"what is cpp",
+id:"id3",
+answer:"c plus plus",
+options:["c pora po","c po po","c pour pour","c plus plus"],
+},
+{
+    question:"what is js",
+    id:"id4",
+    answer:"java script",
+    options:["jhonty shades","joker shadows","java script","none of the above"],
+},
+{
+    question:"who invented js",
+    id:"id5",
+    answer:"brendian eich",
+    options:["brendian eich","ross taylor","williamson","boult"],
+},
+{
+    question:"2+3",
+    id:"id6",
+    answer:5,
+    options:[1,2,3,5],
+},
+{
+question:"The  object can be written without the window prefix.",
+id:"id7",
+answer:"window.screen",
+options:["window screen","ross taylor","williamson","boult"],
+},
+{question:"The HTML element is used to show a video on a web page.",
+id:"id8",
+answer:" video",
+options:["video","cascading style sheets","cascading style shots","casatta style sheets"],
+},
+{
+question:"ascii mean",
+id:"id9",
+answer:"american standard code of information interchange",
+options:["american standard code of information interchange","hype text markup language","hypo text markup language","hyper text makeup language"],
+},
+{question:" ascii value of a",
+id:"id10",
+answer:95,
+options:[96,98,95,100],
+},
+{
+question:"full form of DOM",
+id:"id11",
+answer:"document object model",
+options:["data object model","data orient model","date object model","data object mode"],
+},
+{question:"css founder",
+id:"id12",
+answer:"hakon wiam lee",
+options:["haon wiam lee","ross taylor","williamson","boult"],
+},
+{
+    question:"founder of c",
+    id:"id13",
+    answer:"dennis ritchie",
+    options:["jhonty shades","joker shadows","dennis ritchie","none of the above"],
+},
+{question:"what is constructor",
+id:"id14",
+answer:"special keyword",
+options:["unspecial keyword","aspecial keyword","date object model","data object model"],
+},
+{
+question:"ceo of google",
+id:"id15",
+answer:"sundar pichaiah",
+options:["mark zuckerberg","sundar pichaiah","satyanadela","sundar"],
+},
+{
+question:"ceo of facebook",
+id:"id16",
+answer:"mark zuckerberg",
+options:["mark zuckerberg","sundar pichaiah","satyanadela","sundar"],
+},
+{
+question:"ship of desert",
+id:"id17",
+answer:"camel",
+options:["ross taylor","williamson","boult","camel"],
+},
+{
+question:"ceo of apple",
+id:"id18",
+answer:"steve jobs",
+options:["sundar pichaiah","satyanadela","sundar","steve jobs"],
+},
+{
+  question:"how many seconds makes an hour" ,
+  id:"id19",
+  answer:60,
+  options:[45,63,96,60],
+},
+{
+question:"how many days in a week",
+id:"id20",
+answer:7,
+options:[7,5,6,1],
+},
+]
+
+}

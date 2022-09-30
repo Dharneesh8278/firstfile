@@ -1,0 +1,30 @@
+*
+{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+
+body{
+width: 100vw;
+height: 100vh;
+background-image: url(../media/lava.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.image2{
+height: 220px;
+width: 20%;
+
+
+}
+.dino1
+{
+position: relative;
+
+}
+.dino{
+position: absolute;
+bottom: 10px;
+
+}

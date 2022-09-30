@@ -1,0 +1,67 @@
+
+#trafficsignal{
+    border:double 8px solid black 8px solid black;
+    padding: 10px 3px;
+    width: 50px;
+border-radius: 10%;
+    background-color: black;
+
+
+}
+#trafficsignal > div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    opacity:0;
+}
+
+#line1{
+    height: 200px;
+    width: 10px;
+    background-color: #000;
+    margin-left: 25px;
+
+
+}
+#line2{
+    height: 10px;
+    width: 70px;
+    background-color: black;
+    margin-left: 0.5px;
+}
+#red{
+    background-color: red;
+    font-size: 15px;
+    color: white;
+    display:flex ;
+    justify-content: center;
+align-items: center;
+}
+
+#yellow{
+    background-color: yellow;
+    font-size: 12px;
+    color: black;
+    display:flex ;
+    justify-content: center;
+align-items: center;
+}
+
+#green{
+    background-color: green;
+font-size: 14px;
+color: white;
+display:flex ;
+justify-content: center;
+align-items: center;
+}
+
+
+body{
+    width: 100%;
+    height: 100%;
+
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+table
+
+{
+
+border: 5px solid;
+border-collapse: collapse;
+text-align: center;
+background-image: url(../media/coding-school-creative-logo1_hlb4e2.png);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+tr,td,th
+{
+
+    border: 2px solid white;
+    padding: 1rem;
+
+}
